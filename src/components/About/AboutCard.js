@@ -12,7 +12,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi! My name is <span className="purple"> Stephanie Somade </span>
             from <span className="purple"> the UK</span>
-            <br /> I have recently completed my Level 4 Software Developer Apprenticeship.
+            <br /> I have recently my Level 4 Software Developer Apprenticeship.
             <br />
             I am currently employed as a software developer at
             News UK.
