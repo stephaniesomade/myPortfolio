@@ -1,18 +1,3 @@
-<h2 align="center">
-  Portfolio Site<br/>
-</h2>
-<br/>
-
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-
-</center>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. 
 
 ## Built With
 
